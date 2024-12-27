@@ -20,6 +20,8 @@ function App() {
   // Hooks in React are functions introduced in React 16.8 that allow functional components to use state, lifecycle methods, and other features previously available only in class components. 
   // They simplify React development by making code more readable, reusable, and maintainable. Hooks like useState manage state, while useEffect handles side effects, eliminating the need for class components or complex patterns like HOCs. 
   // This makes functional components powerful and efficient for modern React applications.
+  //Hooks are used for UI propogation
+  
 
 
 
