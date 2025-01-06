@@ -42,6 +42,7 @@ function App() {
   // setup: The function with your Effect’s logic. Your setup function may also optionally return a cleanup function.
   // optional dependencies: The list of all reactive values referenced inside of the setup code. 
   // Reactive values include props, state, and all the variables and functions declared directly inside your component body.
+  // In this we also use the useRef for reference 
   return (
     
     <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-3 my-8 bg-gray-800 text-orange-500">
